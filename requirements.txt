@@ -1,0 +1,14 @@
+pyrogram
+python-dotenv
+aria2p
+requests
+pymongo
+asyncio
+tgcrypto
+moviepy
+hachoir
+
+#update 23
+aiogram
+
+
